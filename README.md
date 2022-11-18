@@ -1,7 +1,7 @@
 # andBot3000
 This bot is a discord bot created for personal use, this my first 'python project'.
 
-*Version: beta0.0.1*
+*Version: beta0.0.1* *- VERY BUGGY*
 
 The code is messy, but I will be working on it.
 
